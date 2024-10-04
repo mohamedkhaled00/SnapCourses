@@ -33,36 +33,6 @@ Experience Snap Courses today! Follow these steps to get started:
    - **Password**: `Demo12`
 3. Feel free to create your own account by signing up on our platform!
 
-
-## 🎉 Overview
-Snap Courses is an innovative web application that leverages AI technology to generate customized online courses. Our platform empowers users to easily create engaging and structured courses tailored to their unique learning needs.
-
-## 🎨 Features
-- **Topic Input**: Seamlessly enter your main topics and subtopics using an intuitive interface.
-- **Course Format Selection**: Choose between Theory + Images (free) or Theory + Videos (premium) for a personalized learning experience.
-- **AI-Powered Generation**: Utilize advanced AI algorithms to create comprehensive and relevant courses based on user input.
-- **Adaptable Learning Styles**: Cater to diverse learning preferences with a mix of visual, auditory, and textual resources.
-- **Personalized Curriculum**: Receive a uniquely crafted curriculum aligned with your learning goals.
-- **Real-time Preview**: Enjoy a live preview of your generated course before final approval.
-
-## 🚀 How It Works
-1. **Input Your Topics**: Begin your course creation by entering your chosen topics and relevant subtopics.
-2. **Select Your Preferences**: Choose between Theory + Images or Theory + Videos to customize your learning journey.
-3. **AI Course Generation**: Witness how our AI transforms your inputs into a tailored course.
-
-## 💡 Benefits
-- **Time Efficiency**: Save hours of manual planning with instant course generation.
-- **AI-Enhanced Materials**: Ensure high-quality content through AI-driven recommendations.
-- **Interactive Learning**: Engage users with various media formats to enhance understanding.
-
-## 🌐 Get Started
-Experience Snap Courses today! Follow these steps to get started:
-1. Visit our live demo: [Snap Courses Demo](https://snap-courses.mohamed-k.dev)
-2. **Login Credentials**:
-   - **Email**: `mohamed.hassan-std@ai.iatseg.org`
-   - **Password**: `Demo12`
-3. Feel free to create your own account by signing up on our platform!
-
 ### 🛠️ Built With
 
 This section lists the major frameworks and libraries used to bootstrap the Snap Courses project. 
