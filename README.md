@@ -29,7 +29,7 @@ Snap Courses is an innovative web application that leverages AI technology to ge
 Experience Snap Courses today! Follow these steps to get started:
 1. Visit our live demo: [Snap Courses Demo](https://snap-courses.mohamed-k.dev)
 2. **Login Credentials**:
-   - **Email**: `mohamed.hassad@gmail.com`
+   - **Email**: `mohamed.hassan-std@ai.iatseg.org`
    - **Password**: `Demo12`
 3. Feel free to create your own account by signing up on our platform!
 
