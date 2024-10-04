@@ -17,11 +17,10 @@ const SlideOne = () => {
     return (
         <div className="flex flex-col items-center dark:bg-black">
 
-            <h1 className="text-6xl font-black mt-20 max-md:text-3xl dark:text-white">Ai Course Generator</h1>
+            <h1 className="text-6xl font-black mt-20 max-md:text-3xl dark:text-white">ٍSnap Courses</h1>
 
             <p className="text-center text-black mt-6 max-w-2xl font-medium max-md:text-xs dark:text-white">
-                Revolutionize your learning journey with our AI Course Generator SaaS
-                Effortlessly create engaging and personalized courses tailored to your needs
+                Learn Fanst, Snap Smart!
             </p>
 
             <div className="flex space-x-4 mb-4 mt-6">

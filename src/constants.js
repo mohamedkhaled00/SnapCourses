@@ -1,12 +1,12 @@
 //BRAND
 export const name = 'SnapCourses';
-export const company = 'Mohamed Khaled & Hassan Ali';
-export const websiteURL = 'http://localhost:3000';
-export const serverURL = 'http://localhost:5000';
-export const logo = 'https://firebasestorage.googleapis.com/v0/b/instacourses-8e298.appspot.com/o/snap-courses-logo-colourfull.png?alt=media&token=a5a70f67-472f-4229-8ca8-0ad93b21f426';
+export const company = 'Snap Courses Egypt';
+export const websiteURL = 'https://snap-courses-dccfa.web.app';
+export const serverURL = 'https://snapcourses.onrender.com';
+export const logo = 'https://firebasestorage.googleapis.com/v0/b/snap-courses-dccfa.appspot.com/o/Spies.png?alt=media&token=ac3ca06a-04d8-49aa-acf7-98d449f01ba9';
 export const razorpayEnabled = false;
-export const paypalEnabled = true;
-export const stripeEnabled = true;
+export const paypalEnabled = false;
+export const stripeEnabled = false;
 export const paystackEnabled = false;
 
 //PRICING :-
@@ -27,10 +27,10 @@ export const YearCost = 99;
 export const YearTime = 'year';
 
 //TESTIMONIAL
-export const review = "The AI Course Generator revolutionized my content creation process, providing accurate and relevant topics effortlessly. It's a time-saving powerhouse that enhances the quality and relevance of my courses. A must-have tool for educators seeking efficiency and impactful online learning experiences.";
-export const from = "Anam Meena Sharif";
-export const profession = 'CFO at Spacester';
-export const photoURL = 'https://play-lh.googleusercontent.com/sV_ffBmBJt_je4RZHnfaCfcnL-Hy6C14Iol7H5EMj9fzI2GDOonuojdn5t9p6n9IAX8j';
+export const review = "Learn Fast, Snap Smart!.";
+export const from = "Mohamed Khaled";
+export const profession = 'CFO at Snap Courses';
+export const photoURL = 'https://firebasestorage.googleapis.com/v0/b/snap-courses-dccfa.appspot.com/o/Spies.png?alt=media&token=ac3ca06a-04d8-49aa-acf7-98d449f01ba9';
 
 //PAYPAL
 export const paypalPlanIdOne = "P-1EM732768S920784HMWKW3OA";

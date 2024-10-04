@@ -30,7 +30,7 @@ const Landing = () => {
             <SlideOne />
             <SlideTwo />
             <SlideThree />
-            <SlideFour />
+            {/* <SlideFour />*/}
             <SlideFive />
             <SlideSix />
             <Footers />

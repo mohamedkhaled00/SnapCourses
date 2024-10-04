@@ -11,75 +11,75 @@ const Features = () => {
     const cardsFeatures = [
         {
             id: 1,
-            title: 'Topic Input',
-            description: 'Easily enter topics and subtopics with an intuitive interface',
+            title: 'Input Topics Easily',
+            description: 'Quickly add your main topics and subtopics through a user-friendly interface.',
         },
         {
             id: 2,
-            title: 'Course Type Preferences',
-            description: 'Choose between Image + Theory or Video + Theory formats for a personalized learning journey',
+            title: 'Select Course Format',
+            description: 'Opt for either Theory + Images or Theory + Videos for a tailored educational experience.',
         },
         {
             id: 3,
-            title: 'AI-Powered Generation',
-            description: 'Our advanced AI algorithms analyze your inputs to generate comprehensive courses',
+            title: 'AI Course Creation',
+            description: 'Leverage cutting-edge AI technology to produce detailed and engaging courses based on your inputs.',
         },
         {
             id: 4,
-            title: 'Learning Styles',
-            description: 'Accommodate different learning styles to focus on images, videos, or textual content',
+            title: 'Adaptable Learning Options',
+            description: 'Support various learning preferences with a mix of visual, auditory, and textual resources.',
         },
         {
             id: 5,
-            title: 'Personalized Curriculum',
-            description: 'Receive a uniquely crafted curriculum based on your preferences',
+            title: 'Custom Course Path',
+            description: 'Get a personalized course outline crafted to match your unique learning goals.',
         },
         {
             id: 6,
-            title: 'Real-time Preview',
-            description: 'See a real-time preview of your generated course before finalizing',
+            title: 'Preview Your Course',
+            description: 'Review a live preview of your course content before final approval and download.',
         },
-    ];
+    ];    
 
     const cardsWork = [
         {
             id: 1,
-            title: ' Enter Topics',
-            description: 'Begin the course creation journey by entering your desired topics and a list of subtopics',
+            title: 'Input Your Topics',
+            description: 'Start your course creation by entering your chosen topics along with any relevant subtopics.',
         },
         {
             id: 2,
-            title: 'Choose Preferences',
-            description: 'Choose between Image + Theory or Video + Theory formats for a personalized learning journey',
+            title: 'Select Your Preferences',
+            description: 'Pick between Theory + Images or Theory + Videos to tailor your learning experience.',
         },
         {
             id: 3,
-            title: 'AI Magic',
-            description: 'Watch as our AI processes your inputs to generate a customized course',
+            title: 'AI Course Generation',
+            description: 'Observe how our AI transforms your inputs into a customized course tailored for you.',
         }
     ];
-
+    
     const cardBenefit = [
         {
             id: 1,
-            title: 'Time Efficiency',
-            description: 'Save hours of manual planning with instant course generation',
-            icon: <IoIosTimer className="text-xl max-md:text-lg  dark:text-white" />
+            title: 'Save Time',
+            description: 'Eliminate hours of manual planning with our instant course creation feature.',
+            icon: <IoIosTimer className="text-xl max-md:text-lg dark:text-white" />
         },
         {
             id: 2,
-            title: 'AI-Enhanced Materials',
-            description: 'Ensure high-quality content with AI-driven recommendations',
-            icon: <BsSearch className="text-xl max-md:text-lg  dark:text-white" />
+            title: 'Quality AI Materials',
+            description: 'Receive top-notch content through AI-driven suggestions and enhancements.',
+            icon: <BsSearch className="text-xl max-md:text-lg dark:text-white" />
         },
         {
             id: 3,
-            title: 'Interactive Learning',
-            description: 'Keeping users engaged with different of media formats',
-            icon: <PiVideo className="text-xl max-md:text-lg  dark:text-white" />
+            title: 'Engaging Learning Experience',
+            description: 'Keep learners engaged with a variety of media formats to enhance understanding.',
+            icon: <PiVideo className="text-xl max-md:text-lg dark:text-white" />
         }
     ];
-
+    
     const style = {
         "root": {
             "base": "max-w-sm flex rounded-none border border-black bg-white shadow-none dark:border-white dark:bg-black m-4",

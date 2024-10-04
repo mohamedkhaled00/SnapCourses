@@ -20,7 +20,9 @@ const app = express();
 app.use(cors());
 const PORT = process.env.PORT;
 app.use(bodyParser.json());
-mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+// mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect(process.env.MONGODB_URI);
+
 const transporter = nodemailer.createTransport({
     host: 'smtp.gmail.com',
     port: 465,
@@ -1353,7 +1355,9 @@ app.post('/api/dashboard', async (req, res) => {
     const users = await User.estimatedDocumentCount();
     const courses = await Course.estimatedDocumentCount();
     const admin = await Admin.findOne({ type: 'main' });
-    const total = admin.total;
+    //const total = admin.total;
+    const total = admin?.total ?? 0; // إذا كانت `admin` أو `total` غير موجودة، سيتم تعيين `total` إلى 0 أو قيمة أخرى مناسبة
+
     const monthlyPlanCount = await User.countDocuments({ type: process.env.MONTH_TYPE });
     const yearlyPlanCount = await User.countDocuments({ type: process.env.YEAR_TYPE });
     let monthCost = monthlyPlanCount * process.env.MONTH_COST;

@@ -1,1 +1,7 @@
 node_modules
+src.zip
+intern-Project.zip
+.firebase/
+.firebaserc
+build/
+firebase.json
