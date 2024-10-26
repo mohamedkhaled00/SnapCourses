@@ -1,7 +1,7 @@
 //BRAND
 export const name = 'SnapCourses';
 export const company = 'Snap Courses Egypt';
-export const websiteURL = 'https://snap-courses-dccfa.web.app';
+export const websiteURL = 'https://snap-courses.mohamed-k.dev';
 export const serverURL = 'https://snapcourses.onrender.com';
 export const logo = 'https://firebasestorage.googleapis.com/v0/b/snap-courses-dccfa.appspot.com/o/Spies.png?alt=media&token=ac3ca06a-04d8-49aa-acf7-98d449f01ba9';
 export const razorpayEnabled = false;
