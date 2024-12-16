@@ -1,5 +1,5 @@
 //BRAND
-export const name = 'SnapCourses';
+export const name = 'Snap Courses';
 export const company = 'Snap Courses Egypt';
 export const websiteURL = 'https://snap-courses.mohamed-k.dev';
 export const serverURL = 'https://api.morsel-eg.app';
@@ -29,7 +29,7 @@ export const YearTime = 'year';
 //TESTIMONIAL
 export const review = "Learn Fast, Snap Smart!.";
 export const from = "Mohamed Khaled";
-export const profession = 'CFO at Snap Courses';
+export const profession = 'CEO at Snap Courses';
 export const photoURL = 'https://firebasestorage.googleapis.com/v0/b/snap-courses-dccfa.appspot.com/o/Spies.png?alt=media&token=ac3ca06a-04d8-49aa-acf7-98d449f01ba9';
 
 //PAYPAL
